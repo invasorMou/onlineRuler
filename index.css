@@ -1,0 +1,19 @@
+* { 
+    margin: 0;
+}
+
+.box {
+    width: 50.15037px;
+    height: 50.15037px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.size-form {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    display: inline-flex;
+    flex-direction: column;
+}
